@@ -1,0 +1,17 @@
+TC#1: Verify that the application is available in Playstore  for Android 
+TC#2: Verify that  the application is available in App Store for iPhone users
+TC#3:  Verify that  the application is available in for Web browsers
+TC#3: Verify that the application is launched in the device 
+TC#4: Verify that the application accepts the input for permissions
+TC#5:Verify that the phone number window is available 
+TC#6: Verify that the confirm button accepts user inputs 
+TC#7: Verify whether the SMS is sent to the registered mobile number
+TC#8: Verify that the Verification code is correct 
+TC#9:Verify that the Options for profile creation is available
+TC#10: Verify that user is able to change the profile picture when user taps the icon for profile picture
+TC#11:  Verify that user is able to change the profile name  when user taps the icon for profile name
+TC#12: Verify that user is able to change the status when user taps the icon for status
+TC#13:Verify that user is able to start a new conversation using the chat bubble
+TC#14 : Verify that the user is able to send pictures or files using the paper clip or camera icon
+TC#15: Verify that user can start a group chat by adding members using New Group icon
+  
